@@ -1,0 +1,13 @@
+{
+    "name": "root/composer",
+    "authors": [
+        {
+            "name": "gabrielcombalia",
+            "email": "gabrielcombalia@hotmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.2",
+        "symfony/dom-crawler": "^5.2"
+    }
+}
